@@ -4,6 +4,7 @@ int main(){
     for(int i=0;i<7;i++){
        usleep(6000);
         printf("N");
+        printf("YEET\n");
        usleep(6000);
         printf("A");
        usleep(6000);
